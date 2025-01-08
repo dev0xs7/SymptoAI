@@ -1,8 +1,8 @@
-# (Archived) Triage AI (Archived)
+# (Archived) SymptoAI (Archived)
 
 **Disclaimer** : This is for educational purposes only. **DO NOT USE IN PRODUCTION**
 
-### This is a Romanian language triage chatbot
+### This is a multilanguage SymptoAI chatbot
 
 ![Screenshot](screenshot.png)
 
