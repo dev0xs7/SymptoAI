@@ -1,7 +1,5 @@
 # (Archived) SymptoAI (Archived)
 
-**Disclaimer** : This is for educational purposes only. **DO NOT USE IN PRODUCTION**
-
 ### This is a multilanguage SymptoAI chatbot
 
 ![Screenshot](screenshot.png)
