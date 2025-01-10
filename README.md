@@ -1,6 +1,6 @@
 ### This is a multilanguage SymptoAI chatbot
 
-### Dev: dev0xs7
+### by Dev: dev0xs7
 ### Twitter: https://x.com/symptoai
 
 ![Screenshot](screenshot.png)
