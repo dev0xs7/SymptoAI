@@ -3,7 +3,7 @@
 ### by Dev: dev0xs7
 ### Twitter: https://x.com/symptoai
 
-![Screenshot](screenshot.png)
+![Screenshot](IMG_6112.jpeg)
 
 ## Credits
 - [https://github.com/RasaHQ/rasa](https://github.com/RasaHQ/rasa) for Rasa obviously
