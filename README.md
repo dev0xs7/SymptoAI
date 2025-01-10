@@ -1,6 +1,9 @@
 ### This is a multilanguage SymptoAI chatbot
 
 ### Dev: dev0xs7
+### ![image](https://github.com/user-attachments/assets/3416df0a-d9f0-4480-b65c-14ddc2f569f3)
+: dev0xs7
+
 
 ![Screenshot](screenshot.png)
 
