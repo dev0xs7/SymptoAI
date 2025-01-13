@@ -74,4 +74,19 @@ python3 stories_graph.py
 ### OpenAI API
 The _start.sh_ script will generate the .env file used by the **rasa_actions** container
 
+## Error Handling
+
+All endpoints return appropriate HTTP status codes:
+- 200: Success
+- 400: Bad Request (invalid input)
+- 404: Not Found
+- 500: Internal Server Error
+
+Error responses include a message:
+```json
+{
+  "error": "Error message here"
+}
+```
+
 **Enjoy!!!**
