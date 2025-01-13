@@ -13,10 +13,17 @@
     <a href="https://github.com/dev0xs7"><img src="https://img.shields.io/badge/dev-dev0xs7-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="dev0xs7"></a>
 </p>
 
-### This is a multilanguage SymptoAI chatbot
+## SymptoAI Overview
 
-### by Dev: dev0xs7
-### Twitter: https://x.com/symptoai
+Sympto is an open-source AI platform designed to provide health insights based on medical findings, offering reliable, privacy-focused health advice. It analyzes symptoms and offers potential diagnoses, ensuring user confidentiality while facilitating valuable medical research. Fully customizable and integrable into any website, Sympto empowers users with data-driven health support while adhering to the highest privacy standards.
+
+App: [symptoai.xyz](https://symptoai.xyz)
+
+CA: -
+
+Dev: [dev0xs7](https://github.com/dev0xs7)
+
+Twitter: [SymptoAI](https://x.com/symptoai)
 
 ![Screenshot](IMG_6114.jpeg)
 
