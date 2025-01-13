@@ -89,4 +89,7 @@ Error responses include a message:
 }
 ```
 
+### "Future Developments: Advancing AI Diagnostics and Patient Reports"
+In future developments, we aim to enhance Sympto to provide even more accurate diagnoses through conversations with the AI bot. Our vision includes integrating advanced algorithms to enable more detailed symptom analysis and deliver more precise health advice, eliminating the need for immediate doctor visits. We are also working on improving the functionality of sending conversation results in a text format to patients, ensuring easily understandable and securely protected health information, available in real-time.
+
 **Enjoy!!!**
