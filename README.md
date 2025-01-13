@@ -1,3 +1,17 @@
+<div align="center">
+  <a href="https://symptoai.xyz">
+    <img src="https://github.com/dev0xs7/SymptoAI/blob/main/logo.png" style="margin: 15px; max-width: 150px" width="15%" alt="Logo">
+  </a>
+</div>
+<p align="center">
+  <em>Sympto AI: Interactive Health Bot for Advice</em>
+</p>
+
+<p align="center">
+  <a href="https://www.symptoai.xyz/"><img src="https://img.shields.io/badge/App-mindforgeai.app-blue?style=for-the-badge" alt="Try it out"></a>
+  <a href="https://x.com/symptoAI"><img src="https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X.com"></a>
+</p>
+
 ### This is a multilanguage SymptoAI chatbot
 
 ### by Dev: dev0xs7
