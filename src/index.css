@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Rubik+Burned&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap");
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.navbar {
+  background-color: rgba(3, 38, 64, 255);
+  color: white;
+  padding: 0px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.desc {
+  font-size: 30px;
+  font-family: "Amatic SC", sans-serif;
+}
+.title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.AppName {
+  font-family: "Permanent Marker", cursive;
+  font-size: 22px;
+}
+.explain_container {
+  margin: 10px;
+  padding: 10px;
+  width: 40%;
+  border: 3px solid rgba(3, 38, 64, 255);
+  border-radius: 7px;
+  text-align: justify;
+  height: 76vh;
+}
+.tag {
+  font-weight: bolder;
+}
+.recommend {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.recommend > p {
+  text-align: center;
+  margin: 3px 0px;
+  padding: 0px 5px;
+  border: 2px solid rgba(3, 38, 64, 255);
+  width: 20%;
+  border-radius: 5px;
+}
+.body_container {
+  display: flex;
+  flex-direction: row;
+}
+.footer {
+  background-color: rgba(3, 38, 64, 255);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+}

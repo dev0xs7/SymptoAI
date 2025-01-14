@@ -1,0 +1,304 @@
+[
+  {
+    "department": "INFECTIOUS DISEASE (ID)",
+    "doctors": [
+      {
+        "name": "Dr. Suresh Kumar D",
+        "hospital": "Apollo Hospitals Greams Road"
+      },
+      {
+        "name": "Dr. Ram Gopalkrishnan",
+        "hospital": "Apollo Children Hospital"
+      },
+      {
+        "name": "Dr. Vijayalakshmi Balakrishnan",
+        "hospital": "Apollo Specialty Hospital, Teynampet"
+      }
+    ]
+  },
+  {
+    "department": "GENERAL MEDICINE",
+    "doctors": [
+      {
+        "name": "Dr. Shraddha Srinivas",
+        "hospital": "Apollo Spectra Hospital"
+      },
+      {
+        "name": "Dr. Sridevi Anantharaman",
+        "hospital": "Apollo Speciality Hospital"
+      },
+      {
+        "name": "Dr. Aafrin Shabbir",
+        "hospital": "Gleneagles Health City"
+      }
+    ]
+  },
+  {
+    "department": "ALLERGIST",
+    "doctors": [
+      {
+        "name": "Dr. Zareen Mohammed",
+        "hospital": "Dr.Zareen Mohamed's Allergy And Asthma Clinic"
+      },
+      {
+        "name": "Dr. Major K Nagaraju",
+        "hospital": "VN Allergy & Asthma Research Centre"
+      }
+    ]
+  },
+  {
+    "department": "GASTROENTEROLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. S. Arulprakash",
+        "hospital": "MGM Healthcare"
+      },
+      {
+        "name": "Dr. R.P.Shanmugam",
+        "hospital": "RPS Hospitals"
+      },
+      {
+        "name": "Dr. Joy Varghese",
+        "hospital": "Gleneagles Health City"
+      }
+    ]
+  },
+  {
+    "department": "DERMATOLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. R. Sowmiya",
+        "hospital": "Dr. Vijay's Hospital"
+      },
+      {
+        "name": "Dr. B.Sindhu Raaghavi",
+        "hospital": "Carves Skin Clinic"
+      },
+      {
+        "name": "Dr. Nivedita Raveendran",
+        "hospital": "Dr. Nivedita Skin and Hair Clinic"
+      }
+    ]
+  },
+  {
+    "department": "PROCTOLOGISTS",
+    "doctors": [
+      {
+        "name": "Dr. Vani Vijay",
+        "hospital": "Mira Healthcare"
+      },
+      {
+        "name": "Dr. Venkatesh Munikrishnan",
+        "hospital": "Apollo Hospital"
+      },
+      {
+        "name": "Dr. Sabari Girieasen M",
+        "hospital": "Annai Therasa Hospital "
+      }
+    ]
+  },
+  {
+    "department": "PSYCHIATRIST",
+    "doctors": [
+      {
+        "name": "Dr. Ennapadam S. Krishnamoorthy",
+        "hospital": "Buddhi Clinic"
+      },
+      {
+        "name": "Dr. Vasantha Jayaram",
+        "hospital": "Mental Health Clinic"
+      },
+      {
+        "name": "Dr. Raman K",
+        "hospital": "Apollo Speciality Hospital"
+      }
+    ]
+  },
+  {
+    "department": "PULMONOLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. Vadivelu Sreenivasan",
+        "hospital": "Gleneagles Health City"
+      },
+      {
+        "name": "Dr. Suresh Sagadevan",
+        "hospital": "Gleneagles Health City"
+      },
+      {
+        "name": "Dr. A.R Balamurugan",
+        "hospital": "Swasam Speciality Clinic"
+      }
+    ]
+  },
+  {
+    "department": "PAIN MANAGEMENT",
+    "doctors": [
+      {
+        "name": "Dr. Saravanan Lakshmanan",
+        "hospital": "GSSSS Clinics"
+      },
+      {
+        "name": "Dr. Karthic Babu Natarajan",
+        "hospital": "Synapse Pain and Spine Clinic"
+      },
+      {
+        "name": "Dr. Ravi Krishna Kalathur",
+        "hospital": "Apollo Hospital"
+      }
+    ]
+  },
+  {
+    "department": "WOUND SPECIALIST",
+    "doctors": [
+      {
+        "name": "Dr. Anantharaman",
+        "hospital": "Sugam Hospital"
+      },
+      {
+        "name": "Dr. S.S. Kumar",
+        "hospital": "Astra Ortho N Spine Center"
+      },
+      {
+        "name": "Dr. Aswin Kumar",
+        "hospital": "Sugam Hospital"
+      }
+    ]
+  },
+  {
+    "department": "RHEUMATOLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. Ramakrishnan S",
+        "hospital": "Apollo Hospital"
+      },
+      {
+        "name": "Dr. Tamil Selvam",
+        "hospital": "Apollo Speciality Hospital"
+      },
+      {
+        "name": "Dr. Mathai Thomas",
+        "hospital": "Apollo Speciality Hospital"
+      }
+    ]
+  },
+  {
+    "department": "OPTHAMOLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. Ashok Rangarajan",
+        "hospital": "Apollo Spectra Hospital"
+      },
+      {
+        "name": "Dr. P.Geetha",
+        "hospital": "Apollo Speciality Hospital"
+      },
+      {
+        "name": "Dr. Uma Ramesh",
+        "hospital": "Sri Kanchi Maha Swamy Eye Clinic"
+      }
+    ]
+  },
+  {
+    "department": "EPILEPTOLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. T. Vijay",
+        "hospital": "Dr. Vijay's Hospital"
+      },
+      {
+        "name": "Dr. S. Balasubramaniam",
+        "hospital": "Diya Speciality Clinic"
+      },
+      {
+        "name": "Dr. Dinesh Nayak",
+        "hospital": "Gleneagles Health City"
+      }
+    ]
+  },
+  {
+    "department": "ENT",
+    "doctors": [
+      {
+        "name": "Dr. Ramesh D",
+        "hospital": "Sree Parthas Multispeciality Hospital"
+      },
+      {
+        "name": "Dr. Sundhari.V",
+        "hospital": "Apollo Spectra Hospital"
+      },
+      {
+        "name": "Dr. Govindaraj",
+        "hospital": "Apollo Speciality Hospital"
+      }
+    ]
+  },
+  {
+    "department": "NEUROLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. Muthukumar",
+        "hospital": "Apollo Speciality Hospital"
+      },
+      {
+        "name": "Dr. T. Vijay",
+        "hospital": "Dr. Vijay's Hospital"
+      },
+      {
+        "name": "Dr. S. Balasubramaniam",
+        "hospital": "Diya Speciality Clinic"
+      }
+    ]
+  },
+  {
+    "department": "HEPATOLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. S. Arulprakash",
+        "hospital": "MGM Healthcare"
+      },
+      {
+        "name": "Dr. R.P.Shanmugam",
+        "hospital": "RPS Hospitals"
+      },
+      {
+        "name": "Dr. R. Kamalakannan",
+        "hospital": "Padma Jayaram Gastro And Liver Speciality Clinic"
+      }
+    ]
+  },
+  {
+    "department": "OPHTHALMOLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. Ashok Rangarajan",
+        "hospital": "Apollo Spectra Hospital"
+      },
+      {
+        "name": "Dr. P.Geetha",
+        "hospital": "Apollo Speciality Hospital"
+      },
+      {
+        "name": "Dr. Uma Ramesh",
+        "hospital": "Sri Kanchi Maha Swamy Eye Clinic"
+      }
+    ]
+  },
+  {
+    "department": "GYNECOLOGIST",
+    "doctors": [
+      {
+        "name": "Dr. Vanitha Shri",
+        "hospital": "MGM Healthcare"
+      },
+      {
+        "name": "Dr. Lakshmi Aswathaman",
+        "hospital": "MGM Healthcare"
+      },
+      {
+        "name": "Dr. Niroopa Arun",
+        "hospital": "Murugan Hospitals"
+      }
+    ]
+  }
+]

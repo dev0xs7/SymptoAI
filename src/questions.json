@@ -1,0 +1,86 @@
+[
+  {
+    "CLASS": "cough",
+    "questions": [
+      {
+        "Qn": "Are you suffering from just dry coughs?",
+        "disease": "dry cough"
+      },
+      {
+        "Qn": "Hmm... Okay then are you suffering with any sore throat issues?",
+        "disease": "acute sore throat , cough with mucus"
+      }
+    ]
+  },
+  {
+    "CLASS": "fever",
+    "questions": [
+      {
+        "Qn": "Have you been experiencing any excruciating pain ?",
+        "disease": "pain relief , fever"
+      },
+      {
+        "Qn": "Okayyyy.... Then have you been suffering from uncontrollable sneezing and runny nose?",
+        "disease": "sneezing and runny nose"
+      }
+    ]
+  },
+  {
+    "CLASS": "depression",
+    "questions": [
+      { "Qn": "Are you addicted to Smoking ?", "disease": "smoking addiction" },
+      {
+        "Qn": "Hmmm.... Have you been expiriencing any migraine or neuropathic pain",
+        "disease": "Neuropathic pain , Migraine"
+      },
+      {
+        "Qn": "Oh Okayyy.... Then have you been experiencing panic attacks or felt anxious lately?",
+        "disease": "anxiety disorder , panic disorder"
+      }
+    ]
+  },
+  {
+    "CLASS": "pain",
+    "questions": [
+      { "Qn": "Are you suffering from fever lately?", "disease": "fever" },
+      {
+        "Qn": "Okayyy... Are you suffering from muscular pain due to spasm ?",
+        "disease": "muscle spasm"
+      },
+      {
+        "Qn": "Hmmm ... Are you suffering from headaches or neuropathic pain ?",
+        "disease": "Neuropathic pain"
+      },
+      {
+        "Qn": "Last Question ! Are you suffering from abdominal pain ?",
+        "disease": "Abdominal pain"
+      }
+    ]
+  },
+  {
+    "CLASS": "nausea",
+    "questions": [
+      {
+        "Qn": "Have you been test positive for pregnancy?",
+        "disease": "Vomiting in pregnancy"
+      },
+      {
+        "Qn": "Have you been suffering from indigestion issues?",
+        "disease": "Indigestion , Vomiting"
+      },
+      {
+        "Qn": "Are you experiencing any heartburn feel",
+        "disease": "heartburn"
+      }
+    ]
+  },
+  {
+    "CLASS": "cold",
+    "questions": [
+      {
+        "Qn": "Have you been sneezing heavily or experienced runny nose lately?",
+        "disease": "sneezing and runny nose"
+      }
+    ]
+  }
+]
