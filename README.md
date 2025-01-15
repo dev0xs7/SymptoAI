@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.symptoai.xyz/"><img src="https://img.shields.io/badge/App-symptoai.xyz-blue?style=for-the-badge" alt="Try it out"></a>
-  <a href="https://x.com/symptoAI"><img src="https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X.com"></a>
+  <a href="https://x.com/symptoAI_"><img src="https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X.com"></a>
   <a href="https://github.com/dev0xs7"><img src="https://img.shields.io/badge/dev-dev0xs7-blue?style=for-the-badge" alt="dev0xs7"></a>
 </p>
 
@@ -23,7 +23,7 @@ CA: -
 
 Dev: [dev0xs7](https://github.com/dev0xs7)
 
-Twitter: [SymptoAI](https://x.com/symptoai)
+Twitter: [SymptoAI](https://x.com/symptoai_)
 
 ![Screenshot](IMG_6114.jpeg)
 
