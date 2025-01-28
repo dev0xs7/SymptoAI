@@ -19,7 +19,7 @@ Sympto is an open-source AI platform designed to provide health insights based o
 
 App: [symptoai.xyz](https://symptoai.xyz)
 
-CA: -
+CA: Cbqrofynj8NJBLsarhqtd7Cd2YDCd8C8UpeJhWqMpump
 
 Dev: [dev0xs7](https://github.com/dev0xs7)
 
